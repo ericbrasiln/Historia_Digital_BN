@@ -80,8 +80,8 @@ class: middle, center
 
 ## Difusão nas pesquisas em história
 
-```{r, out.width="45%"}
-knitr::include_graphics("https://media3.giphy.com/media/xT5LMGUxeK4KTqZG8g/giphy.gif?cid=ecf05e47b17o78f5yb81kt7ds59du581s4n940wzbk3i521g&rid=giphy.gif&ct=g")
+```{r, out.width="30%"}
+knitr::include_graphics("img/noun_data search_1509987.png")
 ```
 
 ---
@@ -116,8 +116,8 @@ class: middle, center
 
 ## Interface da HDB e seus impactos epistemológicos
 
-```{r, out.width="50%"}
-knitr::include_graphics("https://i.giphy.com/media/26n6WywJyh39n1pBu/giphy.webp")
+```{r, out.width="30%"}
+knitr::include_graphics("img/noun_Fishing_3839395.png")
 ```
 
 ---
@@ -140,8 +140,8 @@ class: middle, center
 ## Por uma heurística digital
 
 
-```{r, out.width="65%"}
-knitr::include_graphics("https://i.imgur.com/D3nBfdJ.gif")
+```{r, out.width="30%"}
+knitr::include_graphics("img/noun_algorithm_3048214.png")
 ```
 
 ---
@@ -164,6 +164,19 @@ class: middle, center
 
 ## Seremos todos programadores?
 <br>
+
+---
+class: middle, center  
+
+```{r, out.width="70%"}
+knitr::include_graphics("img/artigo.png")
+```
+
+## História digital: reflexões a partir da Hemeroteca Digital Brasileira e do uso de CAQDAS na reelaboração da pesquisa histórica.
+
+Revista Estudos Históricos, v. 33, n. 69, p. 196–219, jan. 2020. 
+
+[Clique para acessar]( https://doi.org/10.1590/S2178-14942020000100011 ) 
 
 ---
 class: middle, center  
