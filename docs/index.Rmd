@@ -87,11 +87,52 @@ knitr::include_graphics("https://media3.giphy.com/media/xT5LMGUxeK4KTqZG8g/giphy
 ---
 class: middle, center
 
+## Acesso aos periódicos remotamente 
+<br>
+--
+
+## Busca por palavras
+<br>
+--
+
+## Salvar imagens
+<br>
+
+---
+class: middle, center
+
+## Mas e as citações?
+<br>
+--
+
+## Sem padrão e sem transparência  
+<br>
+--
+
+## O caso dos papers da Anpuh e artigos no Scielo.br
+
+---
+class: middle, center
+
 ## Interface da HDB e seus impactos epistemológicos
 
 ```{r, out.width="50%"}
 knitr::include_graphics("https://i.giphy.com/media/26n6WywJyh39n1pBu/giphy.webp")
 ```
+
+---
+class: middle, center
+
+## Parâmetros de busca 
+<br>
+--
+
+## Padrão de resultados
+<br>
+--
+
+## OCR, XML, Metadados?
+<br>
 
 ---
 class: middle, center
@@ -104,9 +145,25 @@ knitr::include_graphics("https://i.imgur.com/D3nBfdJ.gif")
 ```
 
 ---
+class: middle, center
+
+## Registro de procedimentos metodológicos 
+<br>
+--
+
+## Potencial de pesquisas com técnicas de DH
+<br>
+
+---
 class: inverse, center, middle
 
 # Para finalizar: Qual futuro da pesquisa histórica?
+
+---
+class: middle, center
+
+## Seremos todos programadores?
+<br>
 
 ---
 class: middle, center  
