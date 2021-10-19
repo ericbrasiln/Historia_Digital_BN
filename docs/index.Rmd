@@ -1,0 +1,169 @@
+---
+title: "**História Digital: reflexões a partir da HDB**"
+author: "Leonardo F. Nascimento (UFBA - LABHDUFBA) e Eric Brasil (IHM/UNILAB)"
+date: "`r Sys.Date()`"
+encoding: "UTF-8"
+output:
+  xaringan::moon_reader:
+    chakra: libs/remark-latest.min.js
+    css: ["css/default.css", "css/mmp.css" , "css/mmp-fonts.css"]
+    lib_dir: libs
+    nature:
+      ratio: '16:9'
+      beforeInit: "https://platform.twitter.com/widgets.js"
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+editor_options: 
+  chunk_output_type: console
+---
+layout: true
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+
+knitr::opts_chunk$set(
+	echo = FALSE,
+	fig.align = "center",
+	message = FALSE,
+	warning = FALSE,
+	cache = FALSE
+)
+```
+
+```{r eval=FALSE, include=FALSE}
+library(knitr)
+library(tidyverse)
+library(widgetframe)
+```
+
+---
+class: inverse, center, middle
+
+# As fontes digitais de pesquisa
+
+---
+class: middle, center
+
+## Traços digitais (digital data trace)
+
+```{r, out.width="75%"}
+knitr::include_graphics("img/socioloy.png")
+```
+
+---
+class: middle, center
+
+## Dataficação
+
+```{r, out.width="75%"}
+knitr::include_graphics("img/datafication4.jpg")
+```
+
+---
+class: middle, center
+
+## Digitalização de fontes históricas
+
+
+```{r, out.width="65%"}
+knitr::include_graphics("img/surv.jpg")
+```
+
+---
+class: inverse, center, middle
+
+# O caso da Hemeroteca Digital da Biblioteca Nacional
+
+---
+class: middle, center
+
+## Difusão nas pesquisas em história
+
+```{r, out.width="45%"}
+knitr::include_graphics("https://media3.giphy.com/media/xT5LMGUxeK4KTqZG8g/giphy.gif?cid=ecf05e47b17o78f5yb81kt7ds59du581s4n940wzbk3i521g&rid=giphy.gif&ct=g")
+```
+
+---
+class: middle, center
+
+## Interface da HDB e seus impactos epistemológicos
+
+```{r, out.width="50%"}
+knitr::include_graphics("https://i.giphy.com/media/26n6WywJyh39n1pBu/giphy.webp")
+```
+
+---
+class: middle, center
+
+## Por uma heurística digital
+
+
+```{r, out.width="65%"}
+knitr::include_graphics("https://i.imgur.com/D3nBfdJ.gif")
+```
+
+---
+class: inverse, center, middle
+
+# Para finalizar: Qual futuro da pesquisa histórica?
+
+---
+class: middle, center  
+
+# Leonardo F. Nascimento
+
+### [Email: **leofn3@gmail.com**](mailto:leofn3@gmail.com) 
+
+### [Twitter:**@leofn3**](http://www.twitter.com/leofn3) 
+
+### [website: **www.leofn.com**](http://www.leofn.com)
+
+---
+class: middle, center  
+
+# Eric Brasil
+
+### [Email: **profericbrasil@unilab.edu.br**](mailto:profericbrasil@unilab.edu.br) 
+
+### [Twitter:**@ericbrasiln**](http://www.twitter.com/ericbrailn) 
+
+### [website: **ericbrasiln.github.io**](https://ericbrasiln.github.io/)
+
+---
+class: middle, center  
+
+```{r, out.width="20%"}
+knitr::include_graphics("img/logo_MA_color.png")
+```
+
+## Laboratório de Humanidades Digitais da UFBA
+
+**Twitter**: [@labhdufba](https://twitter.com/labhdufba) 
+<br>
+**Instagram**: [@labhdufba](http://instagram.com/labhdufba)
+<br>
+**Github**: [https://github.com/LABHDUFBA](https://github.com/LABHDUFBA)
+<br>
+**Youtube**: [https://www.youtube.com/c/LABHDUFBA](https://www.youtube.com/c/LABHDUFBA)
+
+---
+class: middle, center
+
+## Obrigado gente!
+
+.pull-left[
+```{r, out.width="50%"}
+knitr::include_graphics("https://media.giphy.com/media/JQRVMKkWAQbdiXFBkg/giphy.gif")
+```
+]
+.pull-right[
+##**Agradecimentos especiais**:
+<br>
+
+### Ao Iuri Lapa pelo convite e a todos os funcionários e funcionárias que trabalham diariamente para manter essa instituição tão fundamental para a sociedade brasileira.
+<br>
+
+### Ao público pela paciência!
+]
+
