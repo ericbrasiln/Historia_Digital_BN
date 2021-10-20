@@ -74,9 +74,25 @@ td{
   text-shadow: 0 0 20px #333;
 }
 
+/* color tweak */
+.inverse2 {
+  background-image: url(imagens/slide_B.jpg);
+  background-position: center;
+  background-size: 1220px;
+  background-color: #272822;
+  color: #777872;
+  text-shadow: 0 0 0px #333;
+}
+
 /* slightly spacing change */
 .inverse h1, .inverse h2, .inverse h3 {
   color: #f3f3f3;
+  line-height: 1.0em;
+}
+
+/* slightly spacing change */
+.inverse2 h1, .inverse2 h2, .inverse2 h3 {
+  color: #181818;
   line-height: 1.0em;
 }
 

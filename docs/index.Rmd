@@ -47,15 +47,14 @@ class: inverse, center, middle
 # "Digital turn" nas humanidades
 <br>
 
---
 ```{r, out.width="75%"}
 knitr::include_graphics("https://media.giphy.com/media/FqdGGgugkC4Xm/giphy.gif")
 ```
 
 ---
-class: inverse, center, middle
+class: inverse2, center, middle
 
-## Dataficação (Mayer-Schönberger e Cukier, 2013)
+# Dataficação (Mayer-Schönberger e Cukier, 2013)
 <br>
 
 --
@@ -64,7 +63,7 @@ knitr::include_graphics("https://media.giphy.com/media/l41YvpiA9uMWw5AMU/giphy.g
 ```
 
 ---
-class: inverse, center, middle
+class: inverse2, center, middle
 
 # Digitalização das fontes históricas
 <br>
@@ -86,43 +85,64 @@ class: inverse, center, middle
 
 # O caso da Hemeroteca Digital da Biblioteca Nacional
 
----
-class: inverse, center, middle
-
-## Difusão nas pesquisas em história
-<br>
-
---
 ```{r, out.width="45%"}
 knitr::include_graphics("img/noun_data search_1509987.png")
 ```
 
 ---
-class: inverse, center, middle
+class: inverse2, center, middle
+
+# Difusão nas pesquisas em história
+<br>
+--
 
 ## Acesso aos periódicos remotamente 
 <br>
 --
 
-## Busca por palavras
+## Salvar imagens
 <br>
 --
 
-## Salvar imagens
+## Busca por palavras
 <br>
 
 ---
-class: inverse, middle, center
+class: inverse2, middle, center
 
 # Mas e as citações?
 <br>
 
 --
 ## Sem padrão e sem transparência  
+
+---
+class: inverse2, middle, center
+
+## O caso dos papers da Anpuh
 <br>
 
---
-## O caso dos papers da Anpuh e artigos no Scielo.br
+### Pesquisa realizada por Ana Carolina Veloso, bolsista PIBIC / FAPESB.
+
+### Para mais informações [clique aqui](https://ericbrasiln.github.io/pibic_2020-2021/hdb/)
+
+---
+class: inverse2, middle, center
+
+## Papers publicados nos Anais dos SNH da Anpuh com ocorrências dos termos vínculados à HDB por evento
+
+```{r, out.width="100%"}
+knitr::include_graphics("img/newplot(2).png")
+```
+
+---
+class: inverse2, middle, center
+
+## Padrões de utilização dos termos vínculados à HDB nas citações encontradas
+
+```{r, out.width="100%"}
+knitr::include_graphics("img/newplot(1).png")
+```
 
 ---
 class: inverse, middle, center
@@ -130,13 +150,12 @@ class: inverse, middle, center
 ## Interface da HDB e seus impactos epistemológicos
 <br>
 
---
 ```{r, out.width="45%"}
 knitr::include_graphics("img/noun_Fishing_3839395.png")
 ```
 
 ---
-class: inverse, middle, center
+class: inverse2, middle, center
 
 ## Parâmetros de busca 
 <br>
@@ -155,13 +174,12 @@ class: inverse, middle, center
 # Por uma heurística digital
 <br>
 
---
 ```{r, out.width="45%"}
 knitr::include_graphics("img/noun_algorithm_3048214.png")
 ```
 
 ---
-class: inverse, middle, center
+class: inverse2, middle, center
 
 ## Registro de procedimentos metodológicos 
 <br>
@@ -175,9 +193,9 @@ class: inverse, middle, center
 <br>
 
 ---
-class: middle, center 
+class: inverse2, middle, center 
 
-```{r, out.width="60%"}
+```{r, out.width="70%"}
 knitr::include_graphics("img/artigo.png")
 ```
 
@@ -188,7 +206,7 @@ Revista Estudos Históricos, v. 33, n. 69, p. 196–219, jan. 2020.
 [Clique para acessar]( https://doi.org/10.1590/S2178-14942020000100011 ) 
 
 ---
-class: middle, center
+class: inverse2, middle, center
 
 # Leonardo F. Nascimento
 
@@ -199,7 +217,7 @@ class: middle, center
 ### [website: **www.leofn.com**](http://www.leofn.com)
 
 ---
-class: middle, center
+class: inverse2, middle, center
 
 # Eric Brasil
 
@@ -210,7 +228,7 @@ class: middle, center
 ### [website: **ericbrasiln.github.io**](https://ericbrasiln.github.io/)
 
 ---
-class: inverse, middle, center
+class: inverse2, middle, center
 
 ```{r, out.width="20%"}
 knitr::include_graphics("img/logo_MA_color.png")
@@ -227,7 +245,7 @@ knitr::include_graphics("img/logo_MA_color.png")
 **Youtube**: [https://www.youtube.com/c/LABHDUFBA](https://www.youtube.com/c/LABHDUFBA)
 
 ---
-class: inverse, middle, center
+class: inverse2, middle, center
 
 # **Obrigado gente!**
 
