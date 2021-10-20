@@ -36,39 +36,50 @@ library(knitr)
 library(tidyverse)
 library(widgetframe)
 ```
+---
+class: inverse, center, middle
+
+# Qual futuro da pesquisa histórica?
 
 ---
 class: inverse, center, middle
 
-# As fontes digitais de pesquisa
+# "Digital turn" nas humanidades
+<br>
 
----
-class: middle, center
-
-## Traços digitais (digital data trace)
-
+--
 ```{r, out.width="75%"}
-knitr::include_graphics("img/socioloy.png")
+knitr::include_graphics("https://media.giphy.com/media/FqdGGgugkC4Xm/giphy.gif")
 ```
 
 ---
-class: middle, center
+class: inverse, center, middle
 
-## Dataficação
+## Dataficação (Mayer-Schönberger e Cukier, 2013)
+<br>
 
+--
 ```{r, out.width="75%"}
-knitr::include_graphics("img/datafication4.jpg")
+knitr::include_graphics("https://media.giphy.com/media/l41YvpiA9uMWw5AMU/giphy.gif")
 ```
 
 ---
-class: middle, center
+class: inverse, center, middle
 
-## Digitalização de fontes históricas
+# Digitalização das fontes históricas
+<br>
 
+--
+## rematerialização
+<br>
 
-```{r, out.width="65%"}
-knitr::include_graphics("img/surv.jpg")
-```
+--
+## dados e metadados
+<br>
+
+--
+## "mutação epistemológica fundamental"
+<br>
 
 ---
 class: inverse, center, middle
@@ -76,16 +87,18 @@ class: inverse, center, middle
 # O caso da Hemeroteca Digital da Biblioteca Nacional
 
 ---
-class: middle, center
+class: inverse, center, middle
 
 ## Difusão nas pesquisas em história
+<br>
 
-```{r, out.width="30%"}
+--
+```{r, out.width="45%"}
 knitr::include_graphics("img/noun_data search_1509987.png")
 ```
 
 ---
-class: middle, center
+class: inverse, center, middle
 
 ## Acesso aos periódicos remotamente 
 <br>
@@ -99,53 +112,56 @@ class: middle, center
 <br>
 
 ---
-class: middle, center
+class: inverse, middle, center
 
-## Mas e as citações?
+# Mas e as citações?
 <br>
---
 
+--
 ## Sem padrão e sem transparência  
 <br>
---
 
+--
 ## O caso dos papers da Anpuh e artigos no Scielo.br
 
 ---
-class: middle, center
+class: inverse, middle, center
 
 ## Interface da HDB e seus impactos epistemológicos
+<br>
 
-```{r, out.width="30%"}
+--
+```{r, out.width="45%"}
 knitr::include_graphics("img/noun_Fishing_3839395.png")
 ```
 
 ---
-class: middle, center
+class: inverse, middle, center
 
 ## Parâmetros de busca 
 <br>
---
 
+--
 ## Padrão de resultados
 <br>
---
 
+--
 ## OCR, XML, Metadados?
 <br>
 
 ---
-class: middle, center
+class: inverse, middle, center
 
-## Por uma heurística digital
+# Por uma heurística digital
+<br>
 
-
-```{r, out.width="30%"}
+--
+```{r, out.width="45%"}
 knitr::include_graphics("img/noun_algorithm_3048214.png")
 ```
 
 ---
-class: middle, center
+class: inverse, middle, center
 
 ## Registro de procedimentos metodológicos 
 <br>
@@ -154,32 +170,25 @@ class: middle, center
 ## Potencial de pesquisas com técnicas de DH
 <br>
 
----
-class: inverse, center, middle
-
-# Para finalizar: Qual futuro da pesquisa histórica?
-
----
-class: middle, center
-
+--
 ## Seremos todos programadores?
 <br>
 
 ---
-class: middle, center  
+class: middle, center 
 
-```{r, out.width="70%"}
+```{r, out.width="60%"}
 knitr::include_graphics("img/artigo.png")
 ```
 
-## História digital: reflexões a partir da Hemeroteca Digital Brasileira e do uso de CAQDAS na reelaboração da pesquisa histórica.
+### História digital: reflexões a partir da Hemeroteca Digital Brasileira e do uso de CAQDAS na reelaboração da pesquisa histórica.
 
 Revista Estudos Históricos, v. 33, n. 69, p. 196–219, jan. 2020. 
 
 [Clique para acessar]( https://doi.org/10.1590/S2178-14942020000100011 ) 
 
 ---
-class: middle, center  
+class: middle, center
 
 # Leonardo F. Nascimento
 
@@ -190,7 +199,7 @@ class: middle, center
 ### [website: **www.leofn.com**](http://www.leofn.com)
 
 ---
-class: middle, center  
+class: middle, center
 
 # Eric Brasil
 
@@ -201,7 +210,7 @@ class: middle, center
 ### [website: **ericbrasiln.github.io**](https://ericbrasiln.github.io/)
 
 ---
-class: middle, center  
+class: inverse, middle, center
 
 ```{r, out.width="20%"}
 knitr::include_graphics("img/logo_MA_color.png")
@@ -218,22 +227,21 @@ knitr::include_graphics("img/logo_MA_color.png")
 **Youtube**: [https://www.youtube.com/c/LABHDUFBA](https://www.youtube.com/c/LABHDUFBA)
 
 ---
-class: middle, center
+class: inverse, middle, center
 
-## Obrigado gente!
+# **Obrigado gente!**
 
 .pull-left[
-```{r, out.width="50%"}
-knitr::include_graphics("https://media.giphy.com/media/JQRVMKkWAQbdiXFBkg/giphy.gif")
+```{r, out.width="100%"}
+knitr::include_graphics("https://extra.globo.com/incoming/23459478-c2d-e53/w976h550-PROP/76651138_rsrio-de-janeiro-rj08-05-2017bibliotecas-da-cidadebiblioteca-nacional.-foto.jpg")
 ```
 ]
 .pull-right[
-##**Agradecimentos especiais**:
+## Agradecimentos especiais:
 <br>
 
 ### Ao Iuri Lapa pelo convite e a todos os funcionários e funcionárias que trabalham diariamente para manter essa instituição tão fundamental para a sociedade brasileira.
 <br>
 
-### Ao público pela paciência!
 ]
 
